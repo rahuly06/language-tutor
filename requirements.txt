@@ -1,0 +1,7 @@
+openAI
+gradio
+python-dotenv
+ipykernel
+ipywidgets
+requests
+numpy
