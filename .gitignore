@@ -1,4 +1,4 @@
-tutor/ # environment files
+tutor # environment files
 __pychache__/
 .ipynb_checkpoints/
 .env # secrets
